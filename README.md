@@ -19,3 +19,9 @@ Lots of this code has hard numbers where variables would be better. For instance
 #### Footnote (as suggested by the asterisk)
 
 *Nowadays I remember 39^2 because it comes right after one of my favorite base-10 squares. Fun fact, (and feel free to correct me if I'm wrong because I haven't done rigorous testing on it) if you write 804 after this particular favorite square of mine, it's the smallest next square in this sequence of writing more numbers down in front of the square to get another square! Don't know about you, but I think that's pretty darn neat! Haven't bothered to try to find the next one, though. I guess that's a "proof left to the reader".
+
+
+
+#### Footnote 2:
+
+This code is probably pretty bad.
